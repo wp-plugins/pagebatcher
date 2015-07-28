@@ -35,7 +35,7 @@ your new page hierarchy automatically create a nav menu with the same structure.
 
 = How many pages can I create? =
 
-As many as you want. Though, if you get up into the hundreds you *may* run into server timeout issues.
+As many as you want. Though, if you get up into the hundreds you *may* run into server timeout issues depending on your hosting environment.
 
 = Do blank lines matter in my list of new pages? =
 
