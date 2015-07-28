@@ -17,10 +17,7 @@ in large batches with a simple list. You can choose to publish those pages or le
 your new page hierarchy automatically create a nav menu with the same structure. Here's how it works:
 
 * In your WordPress admin, under **Pages**, choose **Add New Batch**
-* Enter or paste in a list of page titles
-* * One page title per line
-* * Use dashes to create a page hierarchy
-* * Blank lines are ignored
+* Enter or paste in a list of page titles<ul><li>One page title per line</li><li>Use dashes to create a page hierarchy</li><li>Blank lines are ignored</li></ul>
 * Choose whether or not to publish your new pages
 * Create a new menu that will include all your new pages in their hierarchy
 * Click **Save Changes**
