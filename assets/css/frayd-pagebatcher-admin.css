@@ -1,0 +1,4 @@
+#frayd_pagebatcher_text_list_field::-webkit-input-placeholder::after {
+    display:block;
+    content:"- Subpage One\A- Subpage The Second\A-- Subsubpages Work Too\A-- Seriously, Subsubpages\A\ASecond Parent Page\A- Second Section Subpage\A- Another Subpage";
+}
