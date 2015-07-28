@@ -16,13 +16,11 @@ Populating a WordPress website with dozens of pages can be a pain but that's whe
 in large batches with a simple list. You can choose to publish those pages or leave them as drafts and also have
 your new page hierarchy automatically create a nav menu with the same structure. Here's how it works:
 
-<ul>
-<li>In your WordPress admin, under **Pages**, choose **Add New Batch**</li>
-<li>Enter or paste in a list of page titles<ul><li>One page title per line</li><li>Use dashes to create a page hierarchy</li><li>Blank lines are ignored</li></ul></li>
-<li>Choose whether or not to publish your new pages</li>
-<li>Create a new menu that will include all your new pages in their hierarchy</li>
-<li>Click **Save Changes**</li>
-</ul>
+* In your WordPress admin, under **Pages**, choose **Add New Batch**
+* Enter or paste in a list of page titles *(one page title per line | use dashes to create a page hierarchy | blank lines are ignored)*
+* Choose whether or not to publish your new pages
+* Create a new menu that will include all your new pages in their hierarchy
+* Click **Save Changes**
 
 == Installation ==
 
