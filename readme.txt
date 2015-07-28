@@ -1,4 +1,4 @@
-PageBatcher
+=== PageBatcher ===
 Contributors: kevinfreitas
 Donate link: http://frayd.us/wordpress-plugins/pagebatcher/
 Tags: productivity, wordpress management, pages, menus
