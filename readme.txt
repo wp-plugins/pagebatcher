@@ -1,4 +1,4 @@
-=== PageBatcher Bulk Page Creator ===
+=== PageBatcher ===
 Contributors: kevinfreitas
 Donate link: http://frayd.us/wordpress-plugins/pagebatcher/
 Tags: productivity, wordpress management, pages, menus, bulk
@@ -8,12 +8,12 @@ Stable tag: 1.0.20150724
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Batch create a hierarchy of pages and an accompanying menu.
+Create a hierarchy of pages in bulk along with an accompanying menu.
 
 == Description ==
 
 Populating a WordPress website with dozens of pages can be a pain but that's where PageBatcher comes in! Create pages 
-in bulk with a simple list. You can choose to publish those pages or leave them as drafts and also have
+in bulk with a simple text list. You can choose to publish those pages or leave them as drafts and also have
 your new page hierarchy automatically create a nav menu with the same structure. Here's how it works:
 
 * In your WordPress admin, under **Pages**, choose **Add New Batch**
